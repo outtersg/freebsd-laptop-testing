@@ -1,12 +1,12 @@
+#!/bin/sh
 #
 # SPDX-FileCopyrightText: 2026 Shreeney Ajmeri <ajmerishreeney@gmail.com>
 #
-# SPDX-License-Identifier: BSD-2-Clause     
+# SPDX-License-Identifier: BSD-2-Clause
 #
+# NOTE this python report generator is deprecated and is archived along with run_hwprobe.sh.
+# Please see make_report.sh for the current POSIX shell report generator.
 
-
-
-#!/bin/sh
 set -e
 
 REPO_DIR=$(pwd)

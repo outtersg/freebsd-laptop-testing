@@ -1,4 +1,2 @@
 all:
-	./run_hwprobe.sh
-
-
+	./make_report.sh
